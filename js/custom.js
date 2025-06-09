@@ -6,3 +6,7 @@ function getYear() {
 }
 
 getYear();
+
+(()=>{
+    alert("You can click on some of the buttons and see it's action. Example, Try clicking on the call button at the footer.")
+})();
